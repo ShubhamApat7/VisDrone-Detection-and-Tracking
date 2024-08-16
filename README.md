@@ -1,7 +1,7 @@
 # VisDrone-Detection-and-Tracking
 
 # Overview
-# This project explores the VisDrone-2019 Dataset collected by the AISKYEYE team at Lab of Machine Learning and Data Mining , Tianjin University, China. Project focuses on these challenges:
+# This project explores the VisDrone-2019 Dataset. Project focuses on these challenges:
 1. Object Detection in Images
 2. Object Detection in Videos
 3. Single Object Tracking
